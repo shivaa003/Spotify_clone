@@ -34,7 +34,7 @@ A Spotify clone built with Vite + React.js, featuring Tailwind CSS for styling. 
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/your-username/spotify_clone.git
+    git clone https://github.com/shivaa003/Spotify_clone.git
     cd spotify_clone
     ```
 
